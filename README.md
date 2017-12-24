@@ -1,0 +1,1 @@
+There is demonstrated StrangeIoC Unity framework.
